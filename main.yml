@@ -1,0 +1,6 @@
+name: git_practise
+on:
+  push:
+    branches["main"]
+  job:
+    
